@@ -45,7 +45,6 @@
         "neitanod/forceutf8": "^2.0",
         "nelmio/api-doc-bundle": "^4.11",
         "nelmio/cors-bundle": "^2.1",
-        "nucleos/antispam-bundle": "^3.0",
         "nyholm/psr7": "^1.8",
         "oneup/flysystem-bundle": "^4.4",
         "pagerfanta/core": "^4.2",

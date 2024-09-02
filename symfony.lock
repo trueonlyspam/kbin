@@ -288,9 +288,6 @@
     "nikic/php-parser": {
         "version": "v4.11.0"
     },
-    "nucleos/antispam-bundle": {
-        "version": "2.2.0"
-    },
     "nyholm/psr7": {
         "version": "1.8",
         "recipe": {
